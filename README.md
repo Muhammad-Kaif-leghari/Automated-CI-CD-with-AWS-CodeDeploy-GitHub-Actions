@@ -19,7 +19,7 @@ This is my first CI/CD project! I built a complete CI/CD pipeline and designed t
 
 Here’s a simplified overview of the architecture:
 
-![Architecture Diagram](./images/architecture.png)
+![Architecture Diagram](/images/architecture.png)
 
 ---
 
